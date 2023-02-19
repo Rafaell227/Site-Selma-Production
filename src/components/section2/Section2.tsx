@@ -4,7 +4,7 @@ import styles from "./Section2Styles.module.css";
 
 import Unha from "public/images/unha.png";
 import Pelos from "public/images/pelos.png";
-import Banho from "public/images/Banho.png";
+import Banho from "public/images/banho.png";
 import Hidratacao from "public/images/hidratacao.png";
 
 type Props = {
